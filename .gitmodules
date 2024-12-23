@@ -1,3 +1,6 @@
 [submodule "path/to/submodule"]
 	path = path/to/submodule
 	url = https://github.com/Florihanna-HN45/Bai-Thuc-Hanh-Lop-Git.git
+[submodule "Bai-Thuc-Hanh-Lop-Git"]
+	path = Bai-Thuc-Hanh-Lop-Git
+	url = https://github.com/Florihanna-HN45/Bai-Thuc-Hanh-Lop-Git.git
